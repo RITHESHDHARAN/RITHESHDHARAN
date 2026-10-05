@@ -1,16 +1,64 @@
-## Hi there 👋
+## Hi there  I'm Ritheshdharan G R 👋
 
-<!--
-**RITHESHDHARAN/RITHESHDHARAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student at SJCE | Aspiring Entrepreneur | Business & Finance Enthusiast
 
-Here are some ideas to get you started:
+📧 [Email](mailto:rithesh.dan1408@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 [LinkedIn](https://www.linkedin.com/in/rithesh-dharan-945509411)
+
+## 💻 About Me
+
+- 🎓 Currently pursuing B.E. Computer Science and Engineering at St. Joseph's College of Engineering
+- 🚀 Interested in entrepreneurship, business and startups
+- 📈 Interested in finance, investing and stock-market learning
+- 💻 Currently learning C programming and Computer Science fundamentals
+- 📚 I enjoy reading books and listening to podcasts
+
+## 🎯 My Interests
+
+- 🚀 Entrepreneurship
+- 💼 Business
+- 📢 Marketing
+- 💰 Finance
+- 📈 Stock Market & Trading
+- 💻 Technology
+- 📚 Reading & Podcasts
+
+## 🛠️ Tech Stack & Interests
+
+| Domain | Technologies & Interests |
+|---|---|
+| Programming | C, Problem Solving |
+| Computer Science | Programming Fundamentals |
+| Business | Entrepreneurship, Marketing |
+| Finance | Investing, Stock Market, Trading |
+
+## 📌 Featured
+
+📈 *DHARAN INVEST & ADVISORY*
+
+- Financial education Instagram page
+- Focused on finance, investing and stock-market awareness
+- Sharing knowledge about financial markets
+
+🍔 *CraveFit*
+
+- Startup concept for healthier versions of favourite foods
+- Personalised nutrition and meal recommendations
+- Combines technology, food and healthy living
+
+💻 *C Programming Projects*
+
+- Currently learning C programming
+- Building programming fundamentals and problem-solving skills
+
+## 🏆 Certifications
+
+Nothing yet... But I'm working on it! 🚀
+
+## 🌐 Connect With Me
+
+- 🚀 Always willing to learn, build and explore new opportunities!
+- 🔗 Reach out via [LinkedIn](https://www.linkedin.com/in/rithesh-dharan-945509411) or drop an email at **rithesh.dan1408@gmail.com*
+
+### Build with ❤️
